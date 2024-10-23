@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Estanislao Sarandón and I'm a software developer
+My name is Estanislao Sarandón and I'm a software developer.
 
 After a decade of working and leading sustainability projects ♻️, I decided to pursue my dream of becoming a software developer 🖥️. 
 With hands-on experience as a backend developer, I’m currently diving deeper into the world of full-stack development through a C# .NET course 📚. 
