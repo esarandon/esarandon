@@ -2,10 +2,10 @@
 
 My name is Estanislao Sarandón and I'm a software developer.
 
-After a decade of working and leading sustainability projects ♻️, I decided to pursue my dream of becoming a software developer 🖥️. 
-With hands-on experience as a backend developer, I’m currently diving deeper into the world of full-stack development through a C# .NET course 📚. 
-I have always been curious about how things work; I like to open, inspect, test, and repair things 🪛.
-Now, I am looking for a workplace where I can put all this passion and curiosity into action and take me to the next stage as a developer. 🚀
+After a decade of leading sustainability projects ♻️, I decided to pursue my dream of becoming a software developer 🖥️. 
+With a solid foundation in backend technologies like JavaScript, C#, and Python, and experience in IoT and embedded systems, I’m ready to build secure and efficient applications. My curiosity drives me to understand how things work—from inspecting to repairing 🪛—and now I’m eager to bring that passion into software development. 
+
+I’m excited to put all this passion and curiosity into action and reach the next stage in my journey as a developer. 🚀.
 
 🔧 Technologies & Tools
 ---
