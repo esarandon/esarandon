@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi!
 
-My name is estani sarandón and I'm a software developer.
+My name is estanislao sarandón and I'm a software developer.
 
-After a decade of leading sustainability projects ♻️, I decided to pursue my dream of becoming a software developer 🖥️. 
-With a solid foundation in backend technologies like JavaScript, C#, and Python, and experience in IoT and embedded systems, I’m ready to build secure and efficient applications. My curiosity drives me to understand how things work—from inspecting to repairing 🪛—and now I’m eager to bring that passion into software development. 
+After a decade of leading sustainability projects ♻️, I recently became a software developer 🖥️. 
+I bring a strong foundation in backend technologies, particularly C#, Python, and JavaScript, and hands-on expertise in frameworks like ReactJS and Next.js. I am skilled in managing databases like PostgreSQL with Supabase and building tailored REST APIs for IoT devices.
+Additionally, my technical experience includes C/C++ for embedded systems and the integration of various hardware components. My IoT background and proficiency in protocols like MQTT and secure communication through SSH give me a unique perspective for developing robust, efficient, and secure applications.
+
+My curiosity drives me to understand how things work—from inspecting to repairing 🪛—and now I’m eager to bring that passion into software development. 
 
 I’m excited to put all this passion and curiosity into action and reach the next stage in my journey as a developer. 🚀.
 
