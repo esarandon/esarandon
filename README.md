@@ -1,6 +1,6 @@
 # Hi!
 
-I’m Estanislao — a full-stack developer with a strong backend focus and a background in sustainability leadership.
+I’m estani — a full-stack developer with a strong backend focus and a background in sustainability leadership.
 
 After a decade of leading sustainability projects ♻️, I transitioned into software development to bring my passion for problem-solving and systems thinking into the tech world. I specialize in building scalable, secure applications using C#, Python, and JavaScript/TypeScript, with hands-on experience in frameworks like .NET, React, and Node.
 
