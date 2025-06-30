@@ -1,14 +1,21 @@
-## Hi!
+# Hi!
 
-My name is estanislao sarandón and I'm a software developer.
+I’m Estanislao — a full-stack developer with a strong backend focus and a background in sustainability leadership.
 
-After a decade of leading sustainability projects ♻️, I recently became a software developer 🖥️. 
-I bring a strong foundation in backend technologies, particularly C#, Python, and JavaScript, and hands-on expertise in frameworks like ReactJS and Next.js. I am skilled in managing databases like PostgreSQL with Supabase and building tailored REST APIs for IoT devices.
-Additionally, my technical experience includes C/C++ for embedded systems and the integration of various hardware components. My IoT background and proficiency in protocols like MQTT and secure communication through SSH give me a unique perspective for developing robust, efficient, and secure applications.
+After a decade of leading sustainability projects ♻️, I transitioned into software development to bring my passion for problem-solving and systems thinking into the tech world. I specialize in building scalable, secure applications using C#, Python, and JavaScript/TypeScript, with hands-on experience in frameworks like .NET, React, and Node.
 
-My curiosity drives me to understand how things work—from inspecting to repairing 🪛—and now I’m eager to bring that passion into software development. 
+My expertise includes:
 
-I’m excited to put all this passion and curiosity into action and reach the next stage in my journey as a developer. 🚀.
+- Designing and maintaining REST APIs
+- Managing PostgreSQL databases with Prisma and Supabase
+- Implementing secure authentication protocols (JWT, OAuth)
+- Developing responsive, user-friendly UIs with React.js, Tailwind CSS, and modern UI libraries
+
+With a foundation in IoT and embedded systems (C/C++, MQTT, LoRaWAN, Zigbee), I also bridge the gap between hardware and software—integrating connected devices with reliable backend systems.
+
+🔧 My curiosity drives me to understand how things work—from inspecting and testing to repairing and building. Now I’m channeling that drive into crafting robust, efficient, and human-centered software.
+
+🚀 I'm excited to keep growing and bringing this passion into every line of code I write.
 
 🔧 Technologies & Tools
 ---
